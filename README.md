@@ -6,7 +6,7 @@ This repo features a shell script that automatically installs every application 
 Clone the repo, change into its directory and simply run the script! Simple as that!
 
 ```
-git clone repo
+git clone https://github.com/das-dias/opencircuitdesign-ubuntuworkspace.git
 cd opencircuitdesign-ubuntuworkspace
 sh buildws.sh
 ```
