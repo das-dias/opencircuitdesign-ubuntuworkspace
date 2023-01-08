@@ -48,7 +48,7 @@ sudo docker images
 sudo docker ps -a
 sudo docker ps
 # install klayout for vlsi layout editing
-#sudo apt -y install klayout
+sudo apt -y install klayout
 # install xschem for circuit schematic design and simulation
 sudo apt install libX11-6 -y
 sudo apt install libX11-dev -y
